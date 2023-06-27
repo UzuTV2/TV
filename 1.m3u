@@ -269,14 +269,14 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES",CELESTIAL MOVIE
 http://iptvid.my.id/hmm/Isekai/Nouka/celestialmovie.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX
-http://103.226.232.165:2000/play/a01b/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/197964
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",CINEMA WORLD 
 http://103.145.225.253:8000/play/cinemaworld
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES",GALAXY
-http://103.226.232.165:2000/play/a03m/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/264773
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MOVIES",GALAXY
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES",GALAXY PREMIUM
-http://103.226.232.165:2000/play/a015/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/264774
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="MOVIES",HITS
 http://kuchini.site:8080/mosesmn/4e40546ad6/165085
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="MOVIES",HITS
@@ -1045,24 +1045,23 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 * * *   (( KOREAN ))  * * *
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN",K+
-http://103.226.232.165:2000/play/a03y/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/197969
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN",K+
 http://iptvid.my.id/hmm/Isekai/Nouka/kplus.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png" group-title="KOREAN",S ONE
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941628
+http://kuchini.site:8080/ace2524d/e0749dc935/298563
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png" group-title="KOREAN",S ONE
-http://103.226.232.165:2000/play/a01a/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/165077
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
 
-#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
+#EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE*
 http://iptvid.my.id/hmm/Isekai/Nouka/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
-http://103.226.232.165:2000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
+http://kuchini.site:8080/ace2524d/e0749dc935/197965
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN
+http://kuchini.site:8080/ace2524d/e0749dc935/157596
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN*
 http://iptvid.my.id/hmm/Isekai/Nouka/tvn.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN HD
-http://103.226.232.165:2000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN KOREA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157596
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
@@ -1221,7 +1220,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big.png?" group-title="JAPAN",S GEM 
 http://iptvid.my.id/hmm/Isekai/Nouka/sgem.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big.png?" group-title="JAPAN",S GEM
-http://103.226.232.165:2000/play/a03i/index.m3u8
+http://kuchini.site:8080/ace2524d/e0749dc935/298533
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_big1.png" group-title="JAPAN",ANIPLUS
 https://code.vthanhtivi.pw/getlink/jptv2/113/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5fkqT9C/ATX.jpg" group-title="JAPAN",AT•X
@@ -1469,22 +1468,8 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 * * * * * * [[ THAILAND ]] * * * * * *
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvKT9ZR/TP1HD.jpg" group-title="THAILAND",TRUE PREMIER HD 1
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115757
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkvKT9ZR/TP1HD.jpg" group-title="THAILAND",TRUE PREMIER 1
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115758
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGxbjCWD/TP2HD.jpg" group-title="THAILAND",TRUE PREMIER HD 2
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115762
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGxbjCWD/TP2HD.jpg" group-title="THAILAND",TRUE PREMIER 2
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115508
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmkC85j7/TP3HD.jpg" group-title="THAILAND",TRUE PREMIER 3
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115511
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2Qq6LDH/TP4HD.jpg" group-title="THAILAND",TRUE PREMIER 4
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115513
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtBpV5YR/TP5HF.jpg" group-title="THAILAND",TRUE PREMIER 5
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115515
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqWNGgRC/PPTV36.jpg" group-title="THAILAND",PPTV HD 36
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115756
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1508,11 +1493,6 @@ https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
-
-#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0", PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
-
 #EXTINF:-1 tvg-id="MCOTHD.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Logo_kenh_9_mcot_thai_lan.png", MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
