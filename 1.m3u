@@ -281,9 +281,9 @@ http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/264774
 http://kuchini.site:8080/mosesmn/4e40546ad6/165085
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="MOVIES",HITS
 http://iptvid.my.id/hmm/Isekai/Nouka/hits.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-hitsmovie_small.png" group-title="MOVIES",HITS MOVIES
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_big.png" group-title="MOVIES",HITS MOVIES
 http://kuchini.site:8080/mosesmn/4e40546ad6/221947
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-hitsmovie_small.png" group-title="MOVIES",HITS MOVIES
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_big.png" group-title="MOVIES",HITS MOVIES
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941577
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/20996
@@ -327,9 +327,9 @@ http://hidra.live:80/usvhppwq/4C3D7fuen2/312766
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32128
 #EXTINF:0 tvg-logo="https://i.postimg.cc/4x0z5Dbx/UNITV.jpg" group-title="MOVIES",UNIVERSAL TV
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12587
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-paramount_small.png" group-title="MOVIES",PARAMOUNT TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_big.png" group-title="MOVIES",PARAMOUNT TV
 http://iptvid.my.id/hmm/Isekai/Nouka/paramount.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-paramount_small.png" group-title="MOVIES",PARAMOUNT TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_big.png" group-title="MOVIES",PARAMOUNT TV
 http://103.226.232.165:2000/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES",WARNER TV
 http://103.226.232.165:2000/play/a04o/index.m3u8
@@ -533,15 +533,15 @@ http://103.226.232.165:2000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?" group-title="SPORTS",FOX SPORTS 3
 http://103.226.232.165:2000/play/a04u/index.m3u8
 
-#EXTINF:-1 tvg-id="AS1" tvg-logo="https://m5.gs/emlVQW" group-title="SPORTS",ASTRO SUPERSPORTS 1
+#EXTINF:-1 tvg-id="AS1" tvg-logo="https://i.postimg.cc/MTYDSyqD/As.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
-#EXTINF:-1 tvg-id="AS2" tvg-logo="https://m5.gs/YlNuYn" group-title="SPORTS",ASTRO SUPERSPORTS 2
+#EXTINF:-1 tvg-id="AS2" tvg-logo="https://i.postimg.cc/4dwzMsQ2/As-2.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
-#EXTINF:-1 tvg-id="AS3" tvg-logo="https://m5.gs/QUV6Wj" group-title="SPORTS",ASTRO SUPERSPORTS 3
+#EXTINF:-1 tvg-id="AS3" tvg-logo="https://i.postimg.cc/L5wZKXYD/As-3.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 3
 https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
-#EXTINF:-1 tvg-id="AS4" tvg-logo="https://m5.gs/OFZ2Sk" group-title="SPORTS",ASTRO SUPERSPORTS 4
+#EXTINF:-1 tvg-id="AS4" tvg-logo="https://i.postimg.cc/fbDSh1LG/As-4.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-#EXTINF:-1 tvg-id="AS5" tvg-logo="https://m5.gs/NXBndX" group-title="SPORTS",ASTRO SUPERSPORTS 5
+#EXTINF:-1 tvg-id="AS5" tvg-logo="https://i.postimg.cc/y8XWnnPv/As-5.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png",TRUE PREMIER 1HD
@@ -589,13 +589,13 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbcLL0Mw/SKYNET-SPORTS-5.png" group-title="SPORTS",SkyNet Sports 5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsLRwmCr/SKYNET-SPORTS-6.png" group-title="SPORTS",SkyNet Sports 6
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_small.png" group-title="SPORTS",SPOTV 1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298570
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv_small.png" group-title="SPORTS",SPOTV 1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png" group-title="SPORTS",SPOTV 2
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298571
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_spotv2_small.png" group-title="SPORTS",SPOTV 2
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
