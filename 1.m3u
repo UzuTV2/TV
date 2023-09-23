@@ -506,9 +506,9 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1506
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORTS",CHAMP TV 1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="SPORTS",CHAMP TV 2
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ1_big.png" group-title="SPORTS",CHAMP TV 1
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
+https://webproxifiers.online/playlist/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ2_big.png" group-title="SPORTS",CHAMP TV 2
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
+https://webproxifiers.online/playlist/stream_e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS",CHAMP TV 3
 http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2534/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c6y5NHMJ/MNC-SPORTS.png" group-title="SPORTS",MNC SPORTS
@@ -534,15 +534,15 @@ http://103.226.232.165:2000/play/a04t/index.m3u8
 http://103.226.232.165:2000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://i.postimg.cc/MTYDSyqD/As.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 1
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
+https://m1.ballnaja.com/live/assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://i.postimg.cc/4dwzMsQ2/As-2.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 2
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
+https://m1.ballnaja.com/live/assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://i.postimg.cc/L5wZKXYD/As-3.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 3
-https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8
+https://m3.ballnaja.com/live/assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://i.postimg.cc/fbDSh1LG/As-4.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
+https://m1.ballnaja.com/live/assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="AS5" tvg-logo="https://i.postimg.cc/y8XWnnPv/As-5.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 5
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+https://m1.ballnaja.com/live/assp5/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png",TRUE PREMIER 1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -583,20 +583,25 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13GZ6zQH/SKYNET-SPORTS-HD.png" group-title="SPORTS",SkyNet Sports HD
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTS",SkyNet Sports 1
+https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-2.png" group-title="SPORTS",SkyNet Sports 2
+https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-3.png" group-title="SPORTS",SkyNet Sports 3
+https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-4.png" group-title="SPORTS",SkyNet Sports 4
+https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbcLL0Mw/SKYNET-SPORTS-5.png" group-title="SPORTS",SkyNet Sports 5
+https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsLRwmCr/SKYNET-SPORTS-6.png" group-title="SPORTS",SkyNet Sports 6
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298570
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564
+https://m1.ballnaja.com/live/SPOTV_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298571
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563
+https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3
@@ -875,29 +880,25 @@ https://webudit.onlinewebtv.lol/lb/premium90/index.m3u8?|referer=https://widevin
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFRmRLnY/BS3E.jpg" group-title="BEIN SPORTS",BEIN 3 ENG
 https://webudit.onlinewebtv.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_ver1.png" group-title="BEIN SPORTS",BEIN SPORTS 1 TH
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115807
+https://m1.ballnaja.com/live/beIN_Sports_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="BEIN SPORTS",BEIN SPORTS 2
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_ver1.png" group-title="BEIN SPORTS",BEIN SPORTS 3 TH
-http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/115601
+https://m1.ballnaja.com/live/beIN_Sports_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjZnSFfT/BS1.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1
 http://iptvid.my.id/hmm/Isekai/Nouka/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkjZvgTG/BS3.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3
 http://iptvid.my.id/hmm/Isekai/Nouka/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXjLq3G5/BEIN-SPORTS-1.png" group-title="BEIN SPORTS",BEIN SPORTS 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=596899&extension=ts&play_token=nR93jyNofE
+https://ir14.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2CFqvX5/BEIN-SPORTS-2.png" group-title="BEIN SPORTS",BEIN SPORTS 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=596898&extension=ts&play_token=dlQ7fRZcuR
+https://ir14.footballii.ir/hls2/bein2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJsP0t9m/BEIN-SPORTS-3.png" group-title="BEIN SPORTS",BEIN SPORTS 3
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=596897&extension=ts&play_token=HaGeAaoscP
+https://ir14.footballii.ir/hls2/bein3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0DYSsjc/BEIN-SPORTS-4.png" group-title="BEIN SPORTS",BEIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.webtv1.lol/lb/premium94/index.m3u8
+https://ir14.footballii.ir/hls2/bein4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sf0LHdjZ/BEIN-SPORTS-5.png" group-title="BEIN SPORTS",BEIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.webtv1.lol/lb/premium95/index.m3u8
+https://ir14.footballii.ir/hls2/bein5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15vX71J6/BEIN-SPORTS-6.png" group-title="BEIN SPORTS",BEIN SPORTS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -1433,7 +1434,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 * * * * * * [[ THAILAND ]] * * * * * *
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqWNGgRC/PPTV36.jpg" group-title="THAILAND",PPTV HD 36
-https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+https://m1.ballnaja.com/live/PPTV_HD/playlist.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
