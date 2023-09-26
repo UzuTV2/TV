@@ -1037,32 +1037,38 @@ http://iptvid.my.id/hmm/Isekai/Nouka/tvnmovies.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN", KBS WORLD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREAN",KBS WORLD 
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/XNc9vG85/SBS-UZU.jpg",SBS
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/XNc9vG85/SBS-UZU.jpg",SBS
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",JIBS | SBS
 http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KNN | SBS
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KBC | SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KBC | SBS
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KNN | SBS
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KNN | SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/XNc9vG85/SBS-UZU.jpg",TBC | SBS 
+https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/XNc9vG85/SBS-UZU.jpg",TBC | SBS
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",TJB | SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",UBC | SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",SBS
-http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1Nzg3NDksInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImUyZWE5OGM3LWIwYzgtNDMyNC04NmEwLWQ0MGE2ZDViMTRkZCIsImlhdCI6MTY4MjU3MTU0OX0.MSb6K24OkzTZ8sQfi0PB8GDQfGRYUXgDvv0bJfA3ZgE
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/632r92GF/SBSU.jpg",SBS [HD]
 http://mytv.dothome.co.kr/ch/public/31.php/.m3u8
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/9FKjMsSS/SBSB.jpg",SBS BIZ
-http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1Nzg5ODksInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMTExZmIxYS04MzIwLTRiOWItYjc3Mi1hNmM2NTE0NWU1ODEiLCJpYXQiOjE2ODI1NzE3ODl9.BigpZ0DjlmRFO291YESYFMdliBiGmuilljOpE2JO_9k
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/9FKjMsSS/SBSB.jpg",SBS NEWS
+https://ythls.onrender.com/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/JhJ7MRzP/SBSP.jpg",SBS PLUS
 http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1Nzg5MDIsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMGE5NjcxYi0xZmNlLTRkNDEtYmIyNC0xOTYzMjYyMjZmMjciLCJpYXQiOjE2ODI1NzE3MDJ9.gJRgTgpvw1LXkgddSEtmdc4L0laJhscfo-NFJ5RPpc0
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/T2Nz7ZRw/SBSF.jpg",SBS FIL
@@ -1077,8 +1083,8 @@ http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1NzkwODMsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmMjk0OTI4NS1mNzgyLTRiY2QtYTUzNS0xMmY3YWQwM2UwMGQiLCJpYXQiOjE2ODI1NzE4ODN9.73GHFcdNkcnJS9aWZIeEZ8yBdMmaWfKQ2cRyB246LFs
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP
 http://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1NzkxMDgsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0NjljNjU3NS04MDcxLTQ5YTMtYmVlYy1lMTljZjQ3OGEyYmMiLCJpYXQiOjE2ODI1NzE5MDh9.O0m8qYpxw8IgDRLnle6ex9NeebFr-EDqDq9pD79kHsc
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/tJVtq18Y/KIZM.jpg",KIZMOM
-https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S10&q=default
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/tJVtq18Y/KIZM.jpg",TOONIVERSE
+http://code.vthanhtivi.pw/getlink/jptvvn/118/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/HnBHLx51/SBSV.jpg",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/HnBHLx51/SBSV.jpg",NS SHOPPING
