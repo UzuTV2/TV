@@ -535,25 +535,15 @@ http://103.226.232.165:2000/play/a04t/index.m3u8
 http://103.226.232.165:2000/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://i.postimg.cc/MTYDSyqD/As.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 1
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium123/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://i.postimg.cc/4dwzMsQ2/As-2.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 2
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium124/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157556
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://i.postimg.cc/L5wZKXYD/As-3.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 3
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium125/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://i.postimg.cc/fbDSh1LG/As-4.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 4
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium126/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
 #EXTINF:-1 tvg-id="AS5" tvg-logo="https://i.postimg.cc/y8XWnnPv/As-5.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 5
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.webdicdn.lol/lb/premium127/index.m3u8
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/287792
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png",TRUE PREMIER 1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -620,33 +610,19 @@ https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMnb52w/SPORT-TV-1.png" group-title="SPORTS",SPORT TV 1HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium49/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284957
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MGVPgP9T/SPORT-TV-2.png" group-title="SPORTS",SPORT TV 2HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium74/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284958
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSPmQsH/SPORT-TV-3.png" group-title="SPORTS",SPORT TV 3HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium454/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284959
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZRbNZs/SPORT-TV-4.png" group-title="SPORTS",SPORT TV 4HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium289/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284960
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4kX4Rcw/SPORT-TV-5.png" group-title="SPORTS",SPORT TV 5HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium290/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284956
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="SPORTS",TNT SPOSRTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium31/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284961
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="SPORTS",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
-https://webudit.webdicdn.lol/lb/premium32/index.m3u8
+http://assista.pro:80/0333686557/Vilamariante1/284962
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORTS",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
