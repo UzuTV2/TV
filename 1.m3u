@@ -333,8 +333,8 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32128
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12587
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_big.png" group-title="MOVIES",PARAMOUNT TV
 http://iptvid.my.id/hmm/Isekai/Nouka/paramount.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_big.png" group-title="MOVIES",PARAMOUNT TV
-http://103.226.232.165:2000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_paramount_big.png" group-title="MOVIES",PARAMOUNT NETWORK
+http://185.188.188.235/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES",WARNER TV
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3005.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MOVIES",WARNER TV HD
@@ -390,38 +390,38 @@ http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1897
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 17 FHD
 http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1898
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Action 1
-https://ktpremium.com:443/mb040/550404090/905940
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Action 2
-https://ktpremium.com:443/mb040/550404090/905941
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Box Office
-https://ktpremium.com:443/mb040/550404090/905942
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Box Office 2
-https://ktpremium.com:443/mb040/550404090/905943
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Comedy
-https://ktpremium.com:443/mb040/550404090/905944
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Comedy 2
-https://ktpremium.com:443/mb040/550404090/905945
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Discovery
-https://ktpremium.com:443/mb040/550404090/905946
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Drama
-https://ktpremium.com:443/mb040/550404090/905947
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Horror
-https://ktpremium.com:443/mb040/550404090/905948
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Horror 2
-https://ktpremium.com:443/mb040/550404090/905949
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Kids 1
-https://ktpremium.com:443/mb040/550404090/905959
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Kids 2
-https://ktpremium.com:443/mb040/550404090/905960
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Movies
-https://ktpremium.com:443/mb040/550404090/905961
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Movies 2
-https://ktpremium.com:443/mb040/550404090/905962
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Thriller
-https://ktpremium.com:443/mb040/550404090/905963
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",Netflix Thriller 2
-https://ktpremium.com:443/mb040/550404090/905964
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",HBO
+http://185.188.188.235/live/hbo/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",HBO 2
+http://185.188.188.235/live/hbo2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",HBO 3
+http://185.188.188.235/live/hbo3/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",FILM BOX
+http://185.188.188.235/live/filmbox/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",FILM BOX PREMIUM
+http://185.188.188.235/live/filmboxpremium/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",FILM BOX FAMILY
+http://185.188.188.235/live/filmboxfamily/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",FILM BOX STARS
+http://185.188.188.235/live/filmboxstars/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",FILM BOX ARTSHOUSE
+http://185.188.188.235/live/filmboxarthouse/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA COOL
+http://146.59.85.40:89/primacoolhd/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA MAX
+http://185.188.188.235/live/primamax/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA PLUS
+http://185.188.188.235/live/primaplus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA STARS
+http://185.188.188.235/live/primastar/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA LOVE
+http://146.59.85.40:89/primalovehd/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA ZOOM
+http://146.59.85.40:89/primazoomhd/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",PRIMA KRIMI
+http://185.188.188.235/live/primakrimi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",MINIMAX
+http://185.188.188.235/live/minimax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYMdbhpj/BLTV.jpg" group-title="MOVIES 2",BLUETV PLAY 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYMdbhpj/BLTV.jpg" group-title="MOVIES 2",BLUETV PLAY 2
@@ -627,13 +627,13 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-2.png" group-title="SPORTS",SkyNet Sports 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-3.png" group-title="SPORTS",SkyNet Sports 3
-https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+http://185.188.188.235/live/premiersport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-4.png" group-title="SPORTS",SkyNet Sports 4
-https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+http://185.188.188.235/live/premiersport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbcLL0Mw/SKYNET-SPORTS-5.png" group-title="SPORTS",SkyNet Sports 5
-https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
+http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsLRwmCr/SKYNET-SPORTS-6.png" group-title="SPORTS",SkyNet Sports 6
-
+http://185.188.188.235/live/sport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298570
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv_big.png" group-title="SPORTS",SPOTV 1
@@ -642,10 +642,14 @@ https://m1.ballnaja.com/live/SPOTV_1/playlist.m3u8
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_spotv2_big.png" group-title="SPORTS",SPOTV 2
 https://m1.ballnaja.com/live/SPOTV_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3
-#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a563.png" group-title="SPORTS", NOVA SPORT 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a564.png" group-title="SPORTS",NOVA SPORT 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2640.png" group-title="SPORTS",NOVA SPORT 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-4-2641.png" group-title="SPORTS",NOVA SPORT 4
+http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKMnb52w/SPORT-TV-1.png" group-title="SPORTS",SPORT TV 1HD
@@ -696,7 +700,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="SPORTS",STAR SPORTS SELECT 2
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=282676&extension=ts&play_token=RueJHXZTWH
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" group-title="SPORTS",ZIGGO SPORTS
-http://assista.pro:80/0333686557/Vilamariante1/284956
+http://185.188.188.235/live/ctsport/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Qt3gK3Yh/1-HD.png",Футбол 1HD
 https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium136/tracks-v1a1/mono.m3u8
@@ -742,9 +746,9 @@ http://186.190.231.179:8000/play/a027/index.m3u8
 http://186.190.231.179:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTJqGbyf/EUROSPORT-1.png" group-title="SPORTS 2",EUROSPORT 1
-http://51.178.36.235:49214/Eurosport_1/hls/playlist.m3u8
+http://185.188.188.235/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B60mBQZZ/EUROSPORT-2-HD.png" group-title="SPORTS 2",EUROSPORT 2
-http://51.178.36.235:49214/Eurosport_2/hls/playlist.m3u8
+http://185.188.188.235/live/eurosport2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a333.png" group-title="SPORTS 2",SK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -759,11 +763,11 @@ https://no2.webtv1.lol/lb/premium102/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://no2.webtv1.lol/lb/premium103/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="SPORTS 2",STAR SPORTS 1HD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155968&extension=ts
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="SPORTS 2",STAR SPORTS 2HD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155966&extension=ts
+http://41.205.93.154/STARSPORTS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS 2",STAR SPORTS 3HD
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155976&extension=ts
+http://41.205.93.154/STARSPORTS3/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/ballthai1.jpg",AIS BALL 1
 http://124.121.236.160:8150/play/s-aistpl1/index.m3u8
@@ -1909,29 +1913,29 @@ http://epg.112114.xyz/douyu/263824
 #EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",HORROR MOVIE 2
 http://epg.112114.xyz/douyu/310926
 
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",1 周星驰影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",1 周星驰影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11336587
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",2 周星驰影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",2 周星驰影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342412
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",3 周星驰影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",3 周星驰影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352894
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",4 周星驰影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",4 周星驰影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",5 发哥影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",5 发哥影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342387
-#EXTINF:0 tvg-logo="https://freeimage.host/i/JFmOAdJ" group-title="VOD",6 成龙作品
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",6 成龙作品
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342386
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",成龙作品
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",7 成龙作品
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352965
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",李连杰影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",8 李连杰影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342390
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",刘德华影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",9 刘德华影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342424
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",甄子丹影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",10 甄子丹影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352935
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",林正英影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",11 林正英影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",金庸武侠
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",12 金庸武侠
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342427
 #EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",快意江湖
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342435
@@ -2013,21 +2017,21 @@ http://43.128.40.42:198/虎牙直播/huya.php?id=11352973
 http://43.128.40.42:198/虎牙直播/huya.php?id=11602043
 #EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",港台喜剧
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352945
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",赛车电影
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",赛车电影
 http://43.128.40.42:198/虎牙直播/huya.php?id=11279247
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",欧美大片
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",欧美大片
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352963
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",香港贺岁
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",香港贺岁
 http://43.128.40.42:198/虎牙直播/huya.php?id=11601971
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",红色经典
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",红色经典
 http://43.128.40.42:198/虎牙直播/huya.php?id=11602076
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",抗日影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",抗日影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11602042
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",功夫影院
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",功夫影院
 http://43.128.40.42:198/虎牙直播/huya.php?id=11279251
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",父母爱情
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",父母爱情
 http://43.128.40.42:198/虎牙直播/huya.php?id=11602071
-#EXTINF:0 tvg-logo="https://ibb.co/9gjtQXS" group-title="VOD",盗墓剧场
+#EXTINF:0 tvg-logo="https://iili.io/JFmOAdJ.png" group-title="VOD",盗墓剧场
 http://43.128.40.42:198/虎牙直播/huya.php?id=11352871
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTVbd04/UZUTV.jpg" group-title="VOD",UZUMAKI TV
