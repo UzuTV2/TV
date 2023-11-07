@@ -137,11 +137,11 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1506
 ================  (( KIDS ))  ================
 
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?" group-title="KIDS",ANIPLUS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298504
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/298504.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?" group-title="KIDS",ANIPLUS*
 http://iptvid.my.id/hmm/Isekai/Nouka/aniplus.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165081
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165081.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX*
 http://iptvid.my.id/hmm/Isekai/Nouka/animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1DW2Q5K/ANITV.jpg" group-title="KIDS",ANIME TV
@@ -1038,25 +1038,25 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 * * *   (( KOREAN ))  * * *
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN",K+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197969
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/197969.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREAN",K+
 http://iptvid.my.id/hmm/Isekai/Nouka/kplus.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png" group-title="KOREAN",S ONE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298563
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/298563.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png" group-title="KOREAN",S ONE
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165077
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165077.ts
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
 
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE*
 http://iptvid.my.id/hmm/Isekai/Nouka/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/197965.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN*
 http://iptvid.my.id/hmm/Isekai/Nouka/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
+http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES HD
 http://iptvid.my.id/hmm/Isekai/Nouka/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN",ARIRANG
