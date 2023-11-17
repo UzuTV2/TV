@@ -1107,8 +1107,13 @@ http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1NzkwMjAsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5MzIyMGZjNy1lNjk0LTRmZDktOTI0MC01N2Q2OThmMDU0NDQiLCJpYXQiOjE2ODI1NzE4MjB9.Ov7ewFPUd1JudqpeQyXJPxvTJWRtEnKY2u-9RBNkOic
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/DyhJM4kf/SBSSP.jpg",SBS SPORTS
 http://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1NzkwODMsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmMjk0OTI4NS1mNzgyLTRiY2QtYTUzNS0xMmY3YWQwM2UwMGQiLCJpYXQiOjE2ODI1NzE4ODN9.73GHFcdNkcnJS9aWZIeEZ8yBdMmaWfKQ2cRyB246LFs
-#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP
-http://tvlive.sbs.co.kr/sbskpop/sbskpop2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODI1NzkxMDgsInBhdGgiOiIvc2Jza3BvcDIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0NjljNjU3NS04MDcxLTQ5YTMtYmVlYy1lMTljZjQ3OGEyYmMiLCJpYXQiOjE2ODI1NzE5MDh9.O0m8qYpxw8IgDRLnle6ex9NeebFr-EDqDq9pD79kHsc
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 1
+https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 2
+https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg" group-title="KOREAN",THE K-POP 3
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/bwDWppDF/TonVer.jpg",TOONIVERSE
 http://code.vthanhtivi.pw/getlink/jptvvn/118/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/HnBHLx51/SBSV.jpg",KTV
@@ -1168,10 +1173,6 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="KOREAN",K-MOVIES 2
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="KOREAN",K-POP 2
-https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/playlist.m3u8?ads.wurl_channel=698&ads.wurl_name=NewKID&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=60d4edd7b2fdec002c14112d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210909T003532.png" group-title="KOREAN",K-POP 2
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/kMHh2pLq/MNET.jpg",MNET TV
 https://hypera-sin-ab.servercantik.net/stream/mnet/stream/mnet_hq/chunks.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/y8qKrdMf/KOR-UZU.jpg",BBS TV
@@ -1447,18 +1448,18 @@ http://stream2.jlntv.cn/jlcc/sd/live.m3u8
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",四平电视台
 http://stream2.jlntv.cn/sptv/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",辽源电视台
-http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",通化电视台
-http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",白山电视台
-http://stream2.jlntv.cn/baishan1/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",白城电视台
-http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",延边电视台
-http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/K8BMnRTg/CHI-UZUTV.jpg" group-title="MANDARIN",长白山电视台
-http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png" group-title="MANDARIN",CCTV 1HD
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png" group-title="MANDARIN",CCTV 2HD
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="MANDARIN",CCTV 5HD
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-7-cn.png" group-title="MANDARIN",CCTV 7HD
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-8-cn.png" group-title="MANDARIN",CCTV 8HD
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-9-cn.png" group-title="MANDARIN",CCTV 9HD
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTVbd04/UZUTV.jpg" group-title="MANDARIN",MANDARIN TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -1732,7 +1733,184 @@ http://50.7.69.66/jus_punjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",UZUTV INDIAN
 http://bandookk.xyz:8000/Geniptv/persian_share/1506
 
-* * * * * (( MUSIC )) * * * * *
+
+> > > > >  (( RUSSIA ))  < < < < <
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Cineman Kids 1
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1749/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Kids 2
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1750/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Kids 3
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1751/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1752/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Top
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1753/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Катастрофы
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1754/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Cineman Action
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1755/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Thriller
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1756/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Cineman Мелодрама
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1757/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Marvel
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1758/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Ужасы
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1759/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Комедия
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1760/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan VHS
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1761/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan РуКино
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1762/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Сваты
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1763/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Скорая помощь
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1764/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Симпсоны
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1765/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV GRAND
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1766/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV VHS
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1767/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV KIDS
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1768/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Русские фильмы
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1769/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Советские фильмы
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1770/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV SEXY (18+)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1771/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV NEW Кино
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1772/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Союзмульт
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1773/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Music Hits
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1774/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Трагичное
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1775/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Забавное
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1776/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV BEST
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1777/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Ковбойское
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1778/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Adrenaline
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1779/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Oblivion
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1780/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Adventure
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1781/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",YOSSO TV Thriller
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1782/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",ЗВЕЗДА Плюс
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1784/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Yosso TV Citrus-Cartoon
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1788/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Yosso TV Citrus-MARVEL
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1789/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MTV Block Party HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1796/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Полезное Радио HD (Крым)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1797/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Hits 360
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1800/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",n/a
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1801/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",OvenMediaEngine
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1802/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",n/a
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1803/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Ментовские войны
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1805/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan ПёС
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1806/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",CineMan Лесник
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1807/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",n/a
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1808/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Panavision TV (VE)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1827/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",C-Inquest HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1858/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",C-Comedy HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1859/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Slagr TV 2 (CZ)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1860/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic VHS
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1861/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Karate
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1862/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Comedy
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1863/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Disney
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1864/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Horror
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1865/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Galaxy
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1866/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Action
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1867/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Thriller
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1868/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Family
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1869/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Magic Love
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1870/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Stereo Citta TV
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1885/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Матч! Боец
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1887/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",RED LIPS (18+)
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1888/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Museum HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1889/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",.red
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1894/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Media HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1942/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Oscar HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1943/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Frozen HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1944/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Criminal HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1945/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Modern HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1946/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Family HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1947/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye History HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1948/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Western HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1949/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Drive HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1950/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",Eye Cyber HD
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1951/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MYTV
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1952/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MYTV 2
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1953/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MYTV 3
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1954/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MYTV Hit
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1955/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",MYTV Kids
+http://streamer.enchart.one/42/7e16a9f17d0d7512f31832fab04d814e1d69bfe7/1956/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MKLycB/UTV.jpg" group-title="RUSSIA",RUSIA | UZUTV
+http://bandookk.xyz:8000/Geniptv/persian_share/1506
+
+
+~~~~~~~ **** MUSIC | OTHER | VOD **** ~~~~~~
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 1
+https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 2
+https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg" group-title="MUSIC",THE K-POP 3
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" tvg-id="" tvg-name"Citra Dangdut" group-title="MUSIC",CITRA DANGDUT
 http://iptvid.my.id/hmm/UZUTV/free/cdangdut.m3u8
@@ -1808,10 +1986,8 @@ https://m.vidio.com/videos/1829825/vjs_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6F7Y2k2/MUZ.jpg" group-title="MUSIC", Via Vallen - Bojo Galak
 https://m.vidio.com/videos/1828825/vjs_playlist.m3u8 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTVbd04/UZUTV.jpg" group-title="MUSIC",MUSIC UZUTV
-http://bandookk.xyz:8000/Geniptv/persian_share/1506
 
-> > > > >  (( OTHERS ))  < < < < <
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="OTHERS",BISNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
@@ -1877,16 +2053,15 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8#06cad29c58b61ae
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/68137
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MH0640HH/Othtv.jpg" group-title="OTHERS",S
 http://162.19.247.76:22222/live/caihong2/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/GhTVbd04/UZUTV.jpg" group-title="OTHERS",OTHERS 
-http://83.222.205.65:8080/9volna/index.m3u8
 
-* * * *   VOD   * * * *
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Hk40qxxW/RMTV.jpg" group-title="VOD",RUNNING MAN 1
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fxLLfDg/RMTV.jpg" group-title="VOD",RUNNING MAN 1
 http://epg.112114.xyz/douyu/131977
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Hk40qxxW/RMTV.jpg" group-title="VOD",RUNNING MAN 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/fxLLfDg/RMTV.jpg" group-title="VOD",RUNNING MAN 2
 http://epg.112114.xyz/douyu/7298973
-#EXTINF:0 tvg-logo="https://i.postimg.cc/Hk40qxxW/RMTV.jpg" group-title="VOD",RUNNING MAN 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/fxLLfDg/RMTV.jpg" group-title="VOD",RUNNING MAN 3
 https://epg.112114.xyz/huya/11336725
 #EXTINF:0 tvg-logo="https://i.postimg.cc/2SJ8qG11/VOD-uzutv.jpg" group-title="VOD",CHINESE MOVIE
 http://mmitv.top/pltv/huya.php?id=11342412
