@@ -350,6 +350,29 @@ http://iptvid.my.id/hmm/sone.m3u8
 
 * * * * * [[ MOVIES 2 ]] * * * * *
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Cinema HD
+http://ott.watch/stream/E9LDH2ZCN7/423.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Comedy HD
+http://ott.watch/stream/E9LDH2ZCN7/426.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Premiere HD
+http://ott.watch/stream/E9LDH2ZCN7/424.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Family HD
+http://ott.watch/stream/E9LDH2ZCN7/427.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Rating HD
+http://ott.watch/stream/E9LDH2ZCN7/422.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh VHS HD
+http://ott.watch/stream/E9LDH2ZCN7/428.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Fantastis HD
+http://ott.watch/stream/E9LDH2ZCN7/429.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Series HD
+http://ott.watch/stream/E9LDH2ZCN7/430.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Horror HD
+http://ott.watch/stream/E9LDH2ZCN7/431.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Adventure HD
+http://ott.watch/stream/E9LDH2ZCN7/432.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Romantiс HD
+http://ott.watch/stream/E9LDH2ZCN7/433.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES 1
 http://mytv-extra.com/D85A79B4/55A7743D/191844
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",MOVIES 2
@@ -376,6 +399,45 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsd3r15D/Etvb.jpg" group-title="MOVIES 2",BIOSKOP 4
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11004/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Top
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11005/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Premium
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20112/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Action
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11006/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Thriller
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11007/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Катастрофы
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/15106/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Мелодрама
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11008/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Marvel
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11009/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Ужасы
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11010/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Комедия
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11011/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan VHS
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11012/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan РуКино
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11013/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11014/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Ментовские войны
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/16063/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan ПёС
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/16064/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Лесник
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/16065/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Симпсоны
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/15101/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan Скорая Помощь
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/15100/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/svm4r8n/CM2.jpg" group-title="MOVIES 2",CineMan MiniSeries
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19437/index.m3u8
+
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://imageupload.io/ib/zfLZOqujXHQm0og_1698031608.jpg", CANAL PLAY 1 FHD
 http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1882
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 2 FHD
@@ -396,20 +458,6 @@ http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1889
 http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1890
 #EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 10 FHD
 http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1891
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 11 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1892
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 12 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1893
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 13 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1894
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 14 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1895
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 15 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1896
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://imageupload.io/ib/zfLZOqujXHQm0og_1698031608.jpg", CANAL PLAY 16 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1897
-#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://gcdnb.pbrd.co/images/NUOznaIhFALk.jpg?o=1", CANAL PLAY 17 FHD
-http://obsfullhd.tv:25461/Dominique/B8DsYJKBk6jY/1898
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Pf4bnhDd/Ntfx.jpg" group-title="MOVIES 2",HBO
 http://185.188.188.235/live/hbo/playlist.m3u8
@@ -452,8 +500,6 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfsGDdq/HolAc.jpg" group-title="MOVIES 2",CINEMA
 http://hidra.live:80/usvhppwq/4C3D7fuen2/34561
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES 2",China Movie Channel
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png" group-title="MOVIES 2",Sky Cinema Action
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
@@ -1075,6 +1121,8 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",JIBS | SBS
 http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",JTV | SBS
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",JTV | SBS
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KBC | SBS
@@ -1919,11 +1967,11 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1506
 
 ~~~~~~~ **** MUSIC | OTHER | VOD **** ~~~~~~
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 1
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 1
 https://ytm2.yuanhsing.cf/TheKPOP.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 2
+#EXTINF:0 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 2
 https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg" group-title="MUSIC",THE K-POP 3
+#EXTINF:0 tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg" group-title="MUSIC",THE K-POP 3
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" tvg-id="" tvg-name"Citra Dangdut" group-title="MUSIC",CITRA DANGDUT
 http://iptvid.my.id/hmm/UZUTV/free/cdangdut.m3u8
