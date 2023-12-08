@@ -142,7 +142,7 @@ http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/298504.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?" group-title="KIDS",ANIPLUS*
 http://iptvid.my.id/hmm/Isekai/Nouka/aniplus.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX
-http://mytv-extra.com/D85A79B4/55A7743D/191845
+https://kusnadipepenk.github.io/campeign/amax.m3u8
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165081.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS",ANIMAX*
 http://iptvid.my.id/hmm/Isekai/Nouka/animax.m3u8
@@ -350,10 +350,12 @@ http://iptvid.my.id/hmm/sone.m3u8
 
 * * * * * [[ MOVIES 2 ]] * * * * *
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Cinema HD
-http://ott.watch/stream/E9LDH2ZCN7/423.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Comedy HD
-http://ott.watch/stream/E9LDH2ZCN7/426.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hfqDckg/Hboo.jpg" group-title="MOVIES 2",HBO
+http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9ygMTq9/Cmx.jpg" group-title="MOVIES 2",CINEMAX
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJhzDrdT/LOT.jpg" group-title="MOVIES 2",LOTUS MACAU
+http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Premiere HD
 http://ott.watch/stream/E9LDH2ZCN7/424.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ZhXX263/Mov2.jpg" group-title="MOVIES 2",Fresh Family HD
@@ -495,8 +497,6 @@ http://185.188.188.235/live/minimax/playlist.m3u8
 http://mytv-extra.com/D85A79B4/55A7743D/191844
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYMdbhpj/BLTV.jpg" group-title="MOVIES 2",BLUETV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJhzDrdT/LOT.jpg" group-title="MOVIES 2",LOTUS MACAU
-http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfsGDdq/HolAc.jpg" group-title="MOVIES 2",CINEMA
 http://hidra.live:80/usvhppwq/4C3D7fuen2/34561
@@ -942,16 +942,17 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ==============  (( BEIN SPORTS )) ==============
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein1_big1.png" group-title="BEIN SPORTS",BEIN SPORTS 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="BEIN SPORTS",BEIN SPORTS 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein2_big1.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjZnSFfT/BS1.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 ID
 http://iptvid.my.id/hmm/Isekai/Nouka/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkjZvgTG/BS3.jpg" group-title="BEIN SPORTS", BEIN SPORTS 3 ID
 http://iptvid.my.id/hmm/Isekai/Nouka/bein2.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_ver1.png" group-title="BEIN SPORTS",BEIN SPORTS 1 TH
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="BEIN SPORTS",BEIN SPORTS 2
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_ver1.png" group-title="BEIN SPORTS",BEIN SPORTS 3 TH
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtm6HYNJ/bein-sports-premium-1.png" group-title="BEIN SPORTS",BEIN 1 PREMIUM
 http://mytv-extra.com/D85A79B4/55A7743D/191881
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zZHGbV3/bein-sports-premium-2.png" group-title="BEIN SPORTS",BEIN 2 PREMIUM
@@ -1098,13 +1099,13 @@ http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165077.ts
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
 
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE*
-http://iptvid.my.id/hmm/Isekai/Nouka/sone.m3u8
+http://iptvid.my.id/avc/Isekai/Nouka/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/197965.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN*
-http://iptvid.my.id/hmm/Isekai/Nouka/tvn.m3u8
+http://iptvid.my.id/avc/Isekai/Nouka/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES HD
@@ -1134,9 +1135,9 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",KNN | SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",TBC | SBS 
-https://tistory3.daumcdn.net/tistory/2864460/skin/images/Public_8.m3u8
+
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",TBC | SBS
-http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",TJB | SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://i.postimg.cc/prP6940c/SBS.jpg",UBC | SBS
@@ -1267,20 +1268,29 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
  * * * * * (( JAPAN  )) * * * * *
 
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/animax_logo.jpg" group-title="JAPAN",ANIMAX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/at-x_logo.jpg" group-title="JAPAN",AT•X
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/cartoonnetwork_logo.jpg" group-title="JAPAN",CARTOON NETWORK
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/disney-ch_logo.jpg" group-title="JAPAN",DISNEY CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/disney-xd_logo.jpg" group-title="JAPAN",DIANEY JUNIOR
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/anime/kids-station_logo.jpg" group-title="JAPAN",KIDS STATION
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/img/tv/logo/music/mtv_logo.png" group-title="JAPAN",MTV
+http://asia.vthanhtivi.pw/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big.png?" group-title="JAPAN",S GEM 
 http://iptvid.my.id/hmm/Isekai/Nouka/sgem.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_big.png?" group-title="JAPAN",S GEM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298533
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_big1.png" group-title="JAPAN",ANIPLUS
-https://code.vthanhtivi.pw/getlink/jptv2/113/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5fkqT9C/ATX.jpg" group-title="JAPAN",AT•X
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Q6dqZG/KDS.jpg" group-title="JAPAN",KIDS STATION
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_big.png?" group-title="JAPAN",NHK WORLD
 http://103.226.232.199:8003/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://i.postimg.cc/cL4MNW8Q/TvTo.jpg" group-title="JAPAN",TV TOKYO
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/68/gaora_logo.png" group-title="JAPAN",GAORA SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/67/golfnetwork_logo.jpg" group-title="JAPAN",GOLF NETWORK
@@ -1349,17 +1359,9 @@ http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",STAR 2
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",JSPORTS 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",JSPORTS 2
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",JSPORTS 3
-http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",FUJI
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",NIPPON TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCyqkkjv/JAP-UZU.jpg" group-title="JAPAN",TV ASAHI
@@ -1967,6 +1969,10 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1506
 
 ~~~~~~~ **** MUSIC | OTHER | VOD **** ~~~~~~
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 1
 https://ytm2.yuanhsing.cf/TheKPOP.m3u8
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://i.postimg.cc/GhyqrN1q/SBSKP.jpg",THE K-POP 2
@@ -1977,10 +1983,7 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 http://iptvid.my.id/hmm/UZUTV/free/cdangdut.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/J0w7vvkN/KARAOKE.png" group-title="MUSIC",KARAOKE CHANNEL
 http://103.226.232.199:8005/play/a096/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3qV0I5C" group-title="MUSIC",MALEO TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIC",I-KONSER
 http://iptvid.my.id/hmm/UZUTV/free/ikonser.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_musikindo_big.png" group-title="MUSIC",MUSIK INDO
