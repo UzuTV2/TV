@@ -285,7 +285,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264773
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES",GALAXY PREMIUM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="MOVIES",HITS
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165085
+http://uhd3.one:80/Richard/Richard123/571252
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="MOVIES",HITS
 http://iptvid.my.id/hmm/Isekai/Nouka/hits.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsmovie_big.png" group-title="MOVIES",HITS MOVIES
@@ -631,7 +631,7 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?" group-title="SPORTS",FOX SPORTS 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?" group-title="SPORTS",FOX SPORTS 3
-https://ctrl.laotv.la/live/TSport3/index.m3u8
+http://uhd3.one:80/Richard/Richard123/571253
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png",TRUE PREMIER 1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
@@ -1094,17 +1094,17 @@ http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/298563.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png" group-title="KOREAN",S ONE
 http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165077.ts
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
-
+http://uhd3.one:80/Richard/Richard123/571193
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE*
 http://iptvid.my.id/avc/Isekai/Nouka/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
-http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/197965.ts
+http://uhd3.one:80/Richard/Richard123/571260
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN
-http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN*
 http://iptvid.my.id/avc/Isekai/Nouka/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
-http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/157596.ts
+http://uhd3.one:80/Richard/Richard123/571261
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES HD
 http://iptvid.my.id/hmm/Isekai/Nouka/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN",ARIRANG
@@ -1405,8 +1405,9 @@ http://mytv-extra.com/D85A79B4/55A7743D/191853
 http://uhd3.one:80/Richard/Richard123/571226
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnwVKQm/AsAOD.png" group-title="MALAYSIA",ASTRO AOD 2
 http://uhd3.one:80/Richard/Richard123/571229
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GnwVKQm/AsAOD.png" group-title="MALAYSIA",ASTRO AOD 3
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-my.png" group-title="MALAYSIA",ASTRO AOD 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png" group-title="MALAYSIA",ASTRO AURA
+http://uhd3.one:80/Richard/Richard123/571257
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-my.png" group-title="MALAYSIA",ASTRO PREMIER
 http://uhd3.one:80/Richard/Richard123/571230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qxvKVLy/AsCr.png" group-title="MALAYSIA",ASTRO CRICKET
 http://uhd3.one:80/Richard/Richard123/571244
@@ -1420,8 +1421,8 @@ http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 http://mytv-extra.com/D85A79B4/55A7743D/191860
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PX8Nx2c/ASTRO-CITRA.png" group-title="MALAYSIA",ASTRO CITRA
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://apkresult.com/Logos/astro-cricket-live-apkresltjpg.png" group-title="MALAYSIA",ASTRO RANIA
-http://mytv-extra.com/D85A79B4/55A7743D/191866
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png" group-title="MALAYSIA",ASTRO RANIA
+http://uhd3.one:80/Richard/Richard123/571256
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcxSg7q/1591197763147.png" group-title="MALAYSIA",ASTRO PRIMA
 http://mytv-extra.com/D85A79B4/55A7743D/191865
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ6tZ9rG/1591197779083.png" group-title="MALAYSIA",ASTRO RIA
@@ -1668,23 +1669,23 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 * * * * *  (( INDIAN )) * * * * *
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png" group-title="INDIAN",&FLIX HD
-http://103.218.25.12:89/play/a01m/index.m3u8
+http://51.79.84.156:8082/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="INDIAN",&PICTURES
 http://103.218.25.12:89/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="INDIAN",&PRIVE HD
 http://103.218.25.12:89/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R09Q35Bg/TV.jpg" group-title="INDIAN",&TV HD
-http://103.218.25.12:89/play/a01q/index.m3u8
+http://51.79.84.156:8082/andtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFHtX6sD/STV.jpg" group-title="INDIAN",SONY TV
-http://50.7.69.66/sonytv/index.m3u8
+http://51.79.84.156:8082/sonytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcgWN8kD/SAB.jpg" group-title="INDIAN",SONY SAB
-http://50.7.69.66/SAB/index.m3u8
+http://51.79.84.156:8082/SAB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMztL3BB/SMAX.jpg" group-title="INDIAN",SONY MAX
 http://bandookk.xyz:8000/Geniptv/persian_share/1439
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbRF3gYQ/SM2.jpg" group-title="INDIAN",SONY MAX 2
 http://bandookk.xyz:8000/Geniptv/persian_share/1421
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDQtdv1f/zeetv.png" group-title="INDIAN",ZEE TV
-http://50.7.69.66/ZEEHD/index.m3u8
+http://51.79.84.156:8082/ZEEHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6Bb34H5/ZEEAC.jpg" group-title="INDIAN",ZEE ACTION
 http://103.218.25.12:89/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkYGN9Yz/ZEE-BOLLYWOOD.png" group-title="INDIAN",ZEE BOLLYWOOD
@@ -1692,9 +1693,9 @@ http://103.218.25.12:89/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNL1q1bZ/ZEE-CAFE.png" group-title="INDIAN",ZEE CAFE
 http://103.218.25.12:89/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="INDIAN",ZEE CINEMA HD
-http://50.7.69.66/ZEECINEMAHD/index.m3u8
+http://51.79.84.156:8082/ZEECINEMAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="INDIAN",ZEE KERALAM
-http://50.7.69.66/zee_keralam/index.m3u8
+http://51.79.84.156:8082/zee_keralam/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tamizh-in.png" group-title="INDIAN",ZEE THAMIL
 http://uhd3.one:80/Richard/Richard123/571250
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTyTxXs/zing.png" group-title="INDIAN",ZING
@@ -1703,28 +1704,30 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1498
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVy54JTZ/ASIA.jpg" group-title="INDIAN",ASIANET
 http://46.4.77.66:80/asianet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" group-title="INDIAN",COLORS HD
-http://50.7.69.66/COLORSHD/index.m3u8
+http://51.79.84.156:8082/COLORSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",COLORS INFINITY
 http://103.218.25.12:89/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="MALAYSIA",COLOR RISHTEY
+http://51.79.84.156:8082/Rishtey/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="INDIAN",COLORS TAMIL
-http://50.7.69.66/COLORS_TAMIL/index.m3u8
+http://51.79.84.156:8082/COLORS_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="INDIAN",ETV ABHURUCHI
-http://50.7.69.66/ETV_ABHIRUCHI/index.m3u8
+http://51.79.84.156:8082/ETV_ABHIRUCHI/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="INDIAN",ETV CINEMA
-http://50.7.69.66/etv_cinema/index.m3u8
+http://51.79.84.156:8082/etv_cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_life.png" group-title="INDIAN",ETV LIFE
-http://50.7.69.66/etv_life/index.m3u8
+http://51.79.84.156:8082/etv_life/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="INDIAN",ETV PLUS
-http://50.7.69.66/etv_plus/index.m3u8
+http://51.79.84.156:8082/etv_plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="INDIAN",GEMINI COMEDY
-http://50.7.69.66/GEMINI_COMEDY/index.m3u8
+http://51.79.84.156:8082/GEMINI_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="INDIAN",GEMINI MUSIC
-http://50.7.69.66/GEMINI_MUSIC/index.m3u8
+http://51.79.84.156:8082/GEMINI_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_tv.png" group-title="INDIAN",RAJ TV
-http://50.7.69.66/raj_tv/index.m3u8
+http://51.79.84.156:8082/raj_tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",ETV PLUS
-http://50.7.69.66/etv_life/index.m3u8
+http://51.79.84.156:8082/etv_life/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",UTSAV PLUS
 http://bandookk.xyz:8000/Geniptv/persian_share/1410
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",UTSAV BHARAT UK
@@ -1746,17 +1749,17 @@ http://bandookk.xyz:8000/Geniptv/persian_share/29447
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",IND: Disney Hotstar Premium
 http://bandookk.xyz:8000/Geniptv/persian_share/26596
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIAN",STAR BHARAT
-http://50.7.69.66/star_bharat/index.m3u8
+http://51.79.84.156:8082/star_bharat/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-gold-in.png" group-title="INDIAN",STAR GOLD
-http://50.7.69.66/star_gold/index.m3u8
+http://51.79.84.156:8082/star_gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",STAR GOLD 2
 http://103.218.25.12:89/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",STAR GOLD SELECT
 http://103.218.25.12:89/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-jalsha-in.png" group-title="INDIAN",STAR JALSA
-http://50.7.69.66/starjalsha/index.m3u8
+http://51.79.84.156:8082/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-plus-in.png" group-title="INDIAN",STAR PLUS
-http://50.7.69.66/star_plus/index.m3u8
+http://51.79.84.156:8082/ssplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",STAR MOVIES HD
 http://103.218.25.12:89/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",STAR WORLD HD
@@ -1764,8 +1767,9 @@ http://103.218.25.12:89/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="INDIAN",STAR VIJAY
 http://uhd3.one:80/Richard/Richard123/571250
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_life.png" group-title="INDIAN",SUN LIFE
-http://50.7.69.66/sun_life/index.m3u8
-
+http://51.79.84.156:8082/sun_life/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_news_in.png" group-title="INDIAN",SUN NEWS
+http://uhd3.one:80/Richard/Richard123/571194
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",UTV ACTION
 http://103.218.25.12:89/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND: B4U Plus" tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",IND: B4U Plus
@@ -1778,19 +1782,17 @@ http://bandookk.xyz:8000/Geniptv/persian_share/1450
 http://bandookk.xyz:8000/Geniptv/persian_share/1451
 #EXTINF:-1 tvg-id="" tvg-name="IND: ENTER 10" tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",GOLDMINES
 http://bandookk.xyz:8000/Geniptv/persian_share/1452
-#EXTINF:-1 tvg-id="" tvg-name="IND: MANORANJAN TV" tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",MANORANJAN TV
-http://bandookk.xyz:8000/Geniptv/persian_share/1453
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",HBO
-http://50.7.69.66/hbo/index.m3u8
+http://51.79.84.156:8082/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mazhavil_manorama.png" group-title="INDIAN",MAZHAVIL MANORAMA
-http://50.7.69.66/mazavilmanorama/index.m3u8
+http://51.79.84.156:8082/mazavilmanorama/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us_hd_plus.png" group-title="INDIAN",MTV BEAST
-http://50.7.69.66/mtv_beats/index.m3u8
+http://51.79.84.156:8082/mtv_beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/harvest-tv-24x7-in.png" group-title="INDIAN",HARVEST
-http://50.7.69.66/harvest/index.m3u8
+http://51.79.84.156:8082/harvest/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jus_punjabi_logo.svg/518px-Jus_punjabi_logo.svg.png" group-title="INDIAN",JUS PUNJABI
-http://50.7.69.66/jus_punjabi/index.m3u8
+http://51.79.84.156:8082/jus_punjabi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss820zmK/IND.jpg" group-title="INDIAN",UZUTV INDIAN
 http://bandookk.xyz:8000/Geniptv/persian_share/1506
@@ -1991,7 +1993,7 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fypc4KYV/CHANNEL-V.png" group-title="MUSIC",CHANNEL V
 http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIC",MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+http://cdn2.connectbr.com.br/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE
 http://103.167.167.5:8111/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV NEW
