@@ -749,7 +749,7 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=155973&extension=
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="SPORTS",STAR SPORTS SELECT 2
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=282676&extension=ts&play_token=RueJHXZTWH
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ziggo-voetbal-286.png" group-title="SPORTS",ZIGGO SPORTS
-http://185.188.188.235/live/ctsport/playlist.m3u8
+https://live-y16rq9u0.rmbl.ws/slot-93/73va-47t7_360p/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Qt3gK3Yh/1-HD.png",Футбол 1HD
 https://daddy.yurendtv.biz.id/https://ddy2.onlinewebtv.lol/ddy2/premium136/tracks-v1a1/mono.m3u8
@@ -1096,13 +1096,13 @@ http://iptvtree.net:8080/live/Vladisergeevic/7eef2c4388/165077.ts
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE
 http://uhd3.one:80/Richard/Richard123/571193
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://i.postimg.cc/nhJSdkS6/logo-sone-big1.png",S ONE*
-http://iptvid.my.id/avc/Isekai/Nouka/sone.m3u8
+http://iptvid.my.id/hmm/Isekai/Nouka/sone.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN
 http://uhd3.one:80/Richard/Richard123/571260
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="KOREAN",TVN
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vycVRZ/logo-tvn-big.png" tvg-id="TVN" group-title="KOREAN",TVN*
-http://iptvid.my.id/avc/Isekai/Nouka/tvn.m3u8
+http://iptvid.my.id/hmm/Isekai/Nouka/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES
 http://uhd3.one:80/Richard/Richard123/571261
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qttp493L/10441080-ico.png" group-title="KOREAN",TVN MOVIES HD
